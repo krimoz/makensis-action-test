@@ -98,5 +98,4 @@ FunctionEnd
 Function un.onUninstSuccess
   MessageBox MB_OK "You have successfully uninstalled ${PRODUCT_NAME}."
 FunctionEnd
-
 ;eof
